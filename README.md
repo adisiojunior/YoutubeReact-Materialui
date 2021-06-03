@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone - YouTube Responsive com materialui
+UI Clone - YouTube Responsive com Material-UI
 </h1>
 
 #Imagens
