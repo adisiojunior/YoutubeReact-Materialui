@@ -1,3 +1,26 @@
+<h1 align="center">
+UI Clone - YouTube Responsive com materialui
+</h1>
+
+#Imagens
+## Imagen Light
+![image](https://user-images.githubusercontent.com/20409822/120677262-4602cc80-c46d-11eb-81b3-11b6fd988551.png)
+
+## Imagem Dark
+![image](https://user-images.githubusercontent.com/20409822/120677354-5c108d00-c46d-11eb-97cd-e70f9d88603f.png)
+
+## Participants
+
+[<img src="https://avatars.githubusercontent.com/u/20409822?v=4" width="75px;"/>](https://github.com/adisiojunior)
+
+[Adísio Fialho Jr](https://github.com/adisiojunior)
+
+## Techs
+
+- [x] React.js
+- [x] Styled Components
+- [x] Material-UI 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
